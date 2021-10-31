@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTextView</string>
+    <string name="text_1">hello world!</string>
+    <string name="text_2">hello world! hello world! hello world! hello world! hello world!</string>
+    <string name="text_3">筛选</string>
+    <string name="text_4">that is my dream.</string>
+</resources>
